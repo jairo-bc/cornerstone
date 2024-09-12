@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Draft
 
+## 1.1.1 (09-12-2024)
+
 ## 6.13.0 (02-12-2024)
 - Fix HTML markup for product listing and below content region [#2426](https://github.com/bigcommerce/cornerstone/pull/2426)
 - With Product Filtering enabled widgets on category page disappear after navigating using pagination [#2425](https://github.com/bigcommerce/cornerstone/pull/2425)
