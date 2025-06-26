@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Draft
 
+## 6.16.3 (06-26-2025)
+
 ## 6.16.2 (06-18-2025)
 - Restore indentation and quote rules to match BC Sass Style Guide [#2554](https://github.com/bigcommerce/cornerstone/pull/2554)
 - Patch security vulnerabilities [#2548](https://github.com/bigcommerce/cornerstone/pull/2548)
